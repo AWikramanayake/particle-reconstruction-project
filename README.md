@@ -6,4 +6,4 @@ Group members:
 * Julian Titze
 * Akshath Wikramanayake
 
-  Project details can be found in the Collaborative Software Development Group Report.pptx file in this repository
+  Project details can be found in the Collaborative Software Development Group Report.pptx/.pdf file in this repository
