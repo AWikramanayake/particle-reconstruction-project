@@ -1,9 +1,9 @@
-# GroupF
+# Respository for Group F submission for the course 21/22 Physics master course "Collaborative Software Development for Physicists"
 
-Python Version 3.8
+Group members:
+* Nils Hellerhoff
+* Benedikt Pogget
+* Julian Titze
+* Akshath Wikramanayake
 
-Coding convention: PEP 8
-
-Package list: 
-- numpy
-- scipy
+  Project details can be found in the Collaborative Software Development Group Report.pptx file in this repository
