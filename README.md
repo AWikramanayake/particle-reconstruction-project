@@ -1,4 +1,4 @@
-# Respository for Group F submission for the course 21/22 Physics master course "Collaborative Software Development for Physicists"
+### Respository for Group F submission for the course 21/22 Physics master course "Collaborative Software Development for Physicists"
 
 Group members:
 * Nils Hellerhoff
