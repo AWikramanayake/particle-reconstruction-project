@@ -1,0 +1,16 @@
+default:
+  image: continuumio/anaconda3:2020.11
+  before_script:    
+    - conda install -c anaconda pytest numpy scipy
+    
+stages:
+  - tests
+  # - running
+  
+tests:
+  stage: tests
+  script: "py.test"
+  
+# run:
+#   stage: running
+#   script: "./hello_world.py"
